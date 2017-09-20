@@ -1,7 +1,7 @@
 pragma solidity ^0.4.11;
 
 
-import 'zeppelin/contracts/token/ERC20Basic.sol';
+import 'oracles-zeppelin/contracts/token/ERC20Basic.sol';
 
 
 /**
